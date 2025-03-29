@@ -1,0 +1,248 @@
+    INFO: 2025-03-29 21:35:04,980:               log.py:   20: Logging to C:\Users\ADMIN\exam-generator\mdpdf.log
+   DEBUG: 2025-03-29 21:35:04,982:               cli.py:  103: __temp.md
+    INFO: 2025-03-29 21:35:04,982:         converter.py:   14: __temp.md
+   DEBUG: 2025-03-29 21:35:04,988:      pdf_renderer.py:  470: printSegment: 1.   Who wrote the famous play 
+   DEBUG: 2025-03-29 21:35:04,991:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:04,992:      pdf_renderer.py:  470: printSegment: Romeo and Juliet
+   DEBUG: 2025-03-29 21:35:04,993:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:04,993:      pdf_renderer.py:  470: printSegment: ?
+   DEBUG: 2025-03-29 21:35:04,993:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:04,996:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,000:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,002:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,002:      pdf_renderer.py:  470: printSegment:  George Bernard Shaw
+   DEBUG: 2025-03-29 21:35:05,003:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,003:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,004:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,004:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,005:      pdf_renderer.py:  470: printSegment:  William Shakespeare
+   DEBUG: 2025-03-29 21:35:05,005:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,006:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,006:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,006:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,007:      pdf_renderer.py:  470: printSegment:  Anton Chekhov
+   DEBUG: 2025-03-29 21:35:05,008:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,008:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,009:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,009:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,010:      pdf_renderer.py:  470: printSegment:  Arthur Miller
+   DEBUG: 2025-03-29 21:35:05,011:      pdf_renderer.py:  470: printSegment: 2.   What is the main theme of F. Scott Fitzgerald
+   DEBUG: 2025-03-29 21:35:05,011:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-03-29 21:35:05,012:      pdf_renderer.py:  470: printSegment: s 
+   DEBUG: 2025-03-29 21:35:05,013:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,013:      pdf_renderer.py:  470: printSegment: The Great Gatsby
+   DEBUG: 2025-03-29 21:35:05,014:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,015:      pdf_renderer.py:  470: printSegment: ?
+   DEBUG: 2025-03-29 21:35:05,015:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,016:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,016:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,017:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,017:      pdf_renderer.py:  470: printSegment:  The American Dream
+   DEBUG: 2025-03-29 21:35:05,019:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,019:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,020:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,020:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,021:      pdf_renderer.py:  470: printSegment:  War and conflict
+   DEBUG: 2025-03-29 21:35:05,021:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,021:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,022:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,022:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,023:      pdf_renderer.py:  470: printSegment:  Nature and isolation
+   DEBUG: 2025-03-29 21:35:05,023:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,024:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,024:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,025:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,026:      pdf_renderer.py:  470: printSegment:  Love and betrayal
+   DEBUG: 2025-03-29 21:35:05,027:      pdf_renderer.py:  470: printSegment: 3.   In which novel does the character Holden Caulfield appear?
+   DEBUG: 2025-03-29 21:35:05,027:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,028:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,028:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,029:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,029:      pdf_renderer.py:  470: printSegment:  Brave New World
+   DEBUG: 2025-03-29 21:35:05,030:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,030:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,031:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,031:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,033:      pdf_renderer.py:  470: printSegment:  The Catcher in the Rye
+   DEBUG: 2025-03-29 21:35:05,033:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,034:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,034:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,035:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,035:      pdf_renderer.py:  470: printSegment:  To Kill a Mockingbird
+   DEBUG: 2025-03-29 21:35:05,036:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,036:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,037:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,037:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,038:      pdf_renderer.py:  470: printSegment:  The Grapes of Wrath
+   DEBUG: 2025-03-29 21:35:05,039:      pdf_renderer.py:  470: printSegment: 4.   Who is the author of the epic poem 
+   DEBUG: 2025-03-29 21:35:05,039:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,040:      pdf_renderer.py:  470: printSegment: Paradise Lost
+   DEBUG: 2025-03-29 21:35:05,040:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,041:      pdf_renderer.py:  470: printSegment: ?
+   DEBUG: 2025-03-29 21:35:05,041:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,042:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,042:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,043:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,043:      pdf_renderer.py:  470: printSegment:  John Milton
+   DEBUG: 2025-03-29 21:35:05,044:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,045:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,045:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,046:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,046:      pdf_renderer.py:  470: printSegment:  Emily Dickinson
+   DEBUG: 2025-03-29 21:35:05,047:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,047:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,048:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,048:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,049:      pdf_renderer.py:  470: printSegment:  John Milton
+   DEBUG: 2025-03-29 21:35:05,050:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,050:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,051:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,051:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,052:      pdf_renderer.py:  470: printSegment:  Edgar Allan Poe
+   DEBUG: 2025-03-29 21:35:05,053:      pdf_renderer.py:  470: printSegment: 5.   What genre is George Orwell
+   DEBUG: 2025-03-29 21:35:05,054:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-03-29 21:35:05,054:      pdf_renderer.py:  470: printSegment: s 
+   DEBUG: 2025-03-29 21:35:05,055:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,055:      pdf_renderer.py:  470: printSegment: 1984
+   DEBUG: 2025-03-29 21:35:05,056:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,057:      pdf_renderer.py:  470: printSegment:  classified as?
+   DEBUG: 2025-03-29 21:35:05,058:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,058:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,059:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,060:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,060:      pdf_renderer.py:  470: printSegment:  Romance
+   DEBUG: 2025-03-29 21:35:05,061:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,061:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,062:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,063:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,064:      pdf_renderer.py:  470: printSegment:  Historical Fiction
+   DEBUG: 2025-03-29 21:35:05,064:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,065:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,066:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,066:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,067:      pdf_renderer.py:  470: printSegment:  Dystopian Fiction
+   DEBUG: 2025-03-29 21:35:05,068:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,068:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,069:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,069:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,070:      pdf_renderer.py:  470: printSegment:  Science Fiction
+   DEBUG: 2025-03-29 21:35:05,071:      pdf_renderer.py:  470: printSegment: 6.   Which novel is known for the quote, 
+   DEBUG: 2025-03-29 21:35:05,072:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,073:      pdf_renderer.py:  470: printSegment: All animals are equal, but some animals are more equal than
+   DEBUG: 2025-03-29 21:35:05,074:      pdf_renderer.py:  470: printSegment: others
+   DEBUG: 2025-03-29 21:35:05,074:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,075:      pdf_renderer.py:  470: printSegment: ?
+   DEBUG: 2025-03-29 21:35:05,076:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,076:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,077:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,078:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,078:      pdf_renderer.py:  470: printSegment:  Animal Farm
+   DEBUG: 2025-03-29 21:35:05,079:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,080:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,080:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,080:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,082:      pdf_renderer.py:  470: printSegment:  Lord of the Flies
+   DEBUG: 2025-03-29 21:35:05,083:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,084:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,084:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,085:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,086:      pdf_renderer.py:  470: printSegment:  Brave New World
+   DEBUG: 2025-03-29 21:35:05,086:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,087:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,088:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,089:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,090:      pdf_renderer.py:  470: printSegment:  The Jungle
+   DEBUG: 2025-03-29 21:35:05,091:      pdf_renderer.py:  470: printSegment: 7.   Who wrote 
+   DEBUG: 2025-03-29 21:35:05,091:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,092:      pdf_renderer.py:  470: printSegment: The Metamorphosis,
+   DEBUG: 2025-03-29 21:35:05,093:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,094:      pdf_renderer.py:  470: printSegment:  a story about a man transforming into an insect?
+   DEBUG: 2025-03-29 21:35:05,095:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,096:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,096:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,097:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,098:      pdf_renderer.py:  470: printSegment:  Franz Kafka
+   DEBUG: 2025-03-29 21:35:05,098:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,099:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,100:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,100:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,101:      pdf_renderer.py:  470: printSegment:  Leo Tolstoy
+   DEBUG: 2025-03-29 21:35:05,101:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,102:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,102:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,103:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,104:      pdf_renderer.py:  470: printSegment:  Herman Hesse
+   DEBUG: 2025-03-29 21:35:05,105:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,106:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,106:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,107:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,108:      pdf_renderer.py:  470: printSegment:  Marcel Proust
+   DEBUG: 2025-03-29 21:35:05,109:      pdf_renderer.py:  470: printSegment: 8.   In which literary period is the work of Charles Dickens primarily classified?
+   DEBUG: 2025-03-29 21:35:05,110:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,110:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,111:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,112:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,113:      pdf_renderer.py:  470: printSegment:  Romanticism
+   DEBUG: 2025-03-29 21:35:05,114:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,115:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,116:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,117:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,117:      pdf_renderer.py:  470: printSegment:  Victorian Era
+   DEBUG: 2025-03-29 21:35:05,118:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,119:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,120:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,121:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,122:      pdf_renderer.py:  470: printSegment:  Modernism
+   DEBUG: 2025-03-29 21:35:05,123:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,124:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,125:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,126:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,127:      pdf_renderer.py:  470: printSegment:  Realism
+   DEBUG: 2025-03-29 21:35:05,128:      pdf_renderer.py:  470: printSegment: 9.   What is the title of the first Harry Potter book?
+   DEBUG: 2025-03-29 21:35:05,129:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,130:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,130:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,132:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,133:      pdf_renderer.py:  470: printSegment:  Harry Potter and the Goblet of Fire
+   DEBUG: 2025-03-29 21:35:05,133:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,134:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,135:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,136:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,137:      pdf_renderer.py:  470: printSegment:  Harry Potter and the Sorcerer
+   DEBUG: 2025-03-29 21:35:05,138:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-03-29 21:35:05,139:      pdf_renderer.py:  470: printSegment: s Stone
+   DEBUG: 2025-03-29 21:35:05,139:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,140:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,141:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,142:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,142:      pdf_renderer.py:  470: printSegment:  Harry Potter and the Prisoner of Azkaban
+   DEBUG: 2025-03-29 21:35:05,149:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,150:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,150:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,152:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,152:      pdf_renderer.py:  470: printSegment:  Harry Potter and the Chamber of Secrets
+   DEBUG: 2025-03-29 21:35:05,153:      pdf_renderer.py:  470: printSegment: 10.   Who is the protagonist of the novel 
+   DEBUG: 2025-03-29 21:35:05,154:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,154:      pdf_renderer.py:  470: printSegment: Moby-Dick
+   DEBUG: 2025-03-29 21:35:05,155:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-03-29 21:35:05,155:      pdf_renderer.py:  470: printSegment: ?
+   DEBUG: 2025-03-29 21:35:05,156:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,156:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,156:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,157:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,157:      pdf_renderer.py:  470: printSegment:  Captain Ahab
+   DEBUG: 2025-03-29 21:35:05,158:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,158:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,159:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,159:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,160:      pdf_renderer.py:  470: printSegment:  Ishmael
+   DEBUG: 2025-03-29 21:35:05,160:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,160:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,161:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,161:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,162:      pdf_renderer.py:  470: printSegment:  Queequeg
+   DEBUG: 2025-03-29 21:35:05,162:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-03-29 21:35:05,162:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-03-29 21:35:05,163:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-03-29 21:35:05,163:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-03-29 21:35:05,164:      pdf_renderer.py:  470: printSegment:  Starbuck
