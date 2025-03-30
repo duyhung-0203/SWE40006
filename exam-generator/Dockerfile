@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 8501
 
 # Lệnh chạy app
-CMD ["python", "main.py"]
+CMD ["streamlit run", "main.py"]
