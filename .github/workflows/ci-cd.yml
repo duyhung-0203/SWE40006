@@ -29,6 +29,8 @@ jobs:
         working-directory: exam-generator
         env:
           PYTHONPATH: ${{ github.workspace }}/exam-generator
+          OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+          OPENAI_ORG: ${{ secrets.OPENAI_ORG }}
         run: |
           pytest tests
 
