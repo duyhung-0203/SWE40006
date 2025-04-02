@@ -3,7 +3,7 @@ import streamlit as st
 
 from app.app import get_app
 
-OPENAI_TOKEN = "token"
+OPENAI_TOKEN = "OPENAI_TOKEN"
 
 def initial_config():
     """
