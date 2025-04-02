@@ -1,0 +1,29 @@
+# Ignore secrets file
+.streamlit/
+secrets.toml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Python packaging
+dist/
+build/
+*.egg-info/
